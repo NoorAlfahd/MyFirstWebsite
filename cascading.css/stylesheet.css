@@ -1,0 +1,74 @@
+body{
+   font-size: 20px;
+  font-family: 'Cormorant Garamond', serif;
+  margin: auto;
+  background-color: #DEB6AB;
+  color: #00092C;
+}
+h1{
+  font-weight: bold;
+  font-size: 40px;
+  font-family: 'Water Brush', cursive;
+  color: #B20600; 
+}
+p{
+  color: #8E3200;
+}
+h2{
+  color: #614124;
+}
+h3{
+  color: #5f4949;
+}
+.div1{
+  height: 730px;
+  margin-top: 10px;
+  
+  color: hwb(0 16% 35%);
+  text-align: center;
+}
+.cloud1{
+  display: inline-block;
+  position: relative;
+  left: 300px;
+  margin-top: 50px;
+}
+.cloud2{
+  margin-bottom: 500px;
+  position: relative;
+  right: 0px;
+}
+.mountain{
+  
+  position: relative;
+  bottom: 80px;
+  margin-top: auto;
+}
+.profile{
+text-align: center;
+
+}
+.noor{
+  width: 15%;
+}
+.noor1{
+  width:30%;
+  margin: auto;
+}
+.skills{
+text-align: center;
+}
+.computer{
+  width: 200px;
+}
+.review{
+  width: 200px;
+}
+.contact-me{
+  text-align: center;
+}
+.bottom-container{
+  text-align: center;
+  background-color: #FCFFE7;
+  margin-top: 100px;
+}
